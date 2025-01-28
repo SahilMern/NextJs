@@ -1,3 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-const productSlice = 
+const productSlice = createSlice({
+    
+})
